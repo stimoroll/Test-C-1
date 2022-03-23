@@ -1,5 +1,8 @@
-class Another {
-  public static void Write () {
-    Console.WriteLine ("Class Another");
+using System;
+
+
+  public class Another {
+    public void Write () {
+      Console.WriteLine ("Class Another");
+    }
   }
-}
